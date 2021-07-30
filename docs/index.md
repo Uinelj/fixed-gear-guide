@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Fixed gear buying guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This guide is heavily inspired (or downright copied from the users' suggestions) by the [r/fixedgearbicycle](https://reddit.com/r/fixedgearbicycle) subreddit. The subreddit's guides are becoming stale/old, and this guide is a effort to build something more updatable and reliable that enables everyone to contribute.  
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You can contribute via:
+- pull requests if you know how they work
+- opening an issue and letting someone who knows to do a pull request
+- TODO: find a document-like way of contributing
